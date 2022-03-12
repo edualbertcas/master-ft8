@@ -1,4 +1,7 @@
 # master-ft8
+
+PayPal.Me:  https://paypal.me/eduardocastillo1170 
+
 Soft Hamradio Powershell
 
 the source code and the binary for windows (exe) is in
