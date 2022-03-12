@@ -11,8 +11,10 @@ This program is made in powershell for radio amateurs it is to work with ft8
 * It has a read-only cluster of different bands
 * Shows you the last contacts made
 
-I share the code .. so you can modify it to your liking
+I share the code .. so you can modify it to your liking 
+
 if you improve it you can share it or send me a copy to
+
 hellocodelinux@gmail.com to see the improvements
 
 I would like someone to help me improve it
