@@ -19,6 +19,14 @@ hellocodelinux@gmail.com to see the improvements
 
 I would like someone to help me improve it
 
+you need this
+
+VC_redist.x64.exe / VC_redist.x86.exe
+
+this program uses ncat to upload the dx made to the cluster
+
+when you run it for the first time it will take care of downloading ncat automatically
+
 ![Screenshot_1](https://user-images.githubusercontent.com/95554670/157746001-412c34e0-9b24-4071-a037-0722c5151bf5.png)
 
 ![Screenshot_2](https://user-images.githubusercontent.com/95554670/157746025-2129e627-23c4-48af-ba58-c71c9eab30ed.png)
