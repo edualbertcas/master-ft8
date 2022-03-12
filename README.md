@@ -1,7 +1,9 @@
 # master-ft8
 Soft Hamradio Powershell
 
-Source Code  -->  https://www.pling.com/p/1731640/
+the source code and the binary for windows (exe) is in
+
+-->  https://www.pling.com/p/1731640/
 
 This program is made in powershell for radio amateurs it is to work with ft8
 
