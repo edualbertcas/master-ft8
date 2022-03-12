@@ -29,11 +29,11 @@ this program uses ncat to upload the dx made to the cluster
 
 when you run it for the first time it will take care of downloading ncat automatically
 
+![1](https://user-images.githubusercontent.com/95554670/158025002-8cc11ed0-ed17-4fd9-934d-4c884667e172.png)
 
-![1](https://user-images.githubusercontent.com/95554670/158024550-e2d2ebaa-2b70-42b6-a6f2-5f49059ff3fa.png)
+![2](https://user-images.githubusercontent.com/95554670/158025004-a18916fb-30f4-4da1-92b1-fb2e46928ddf.png)
 
-![2](https://user-images.githubusercontent.com/95554670/158024552-a7fba1b4-c173-44b9-b345-5bb99f951d91.png)
+![3](https://user-images.githubusercontent.com/95554670/158025006-1e63c720-13c9-4128-8368-cc341f2b5276.png)
 
-![3](https://user-images.githubusercontent.com/95554670/158024553-c8d297bb-4bec-45c6-98dd-f5033a9c2e36.png)
+![4](https://user-images.githubusercontent.com/95554670/158025008-7e0cb59b-dc10-4f39-a8e8-235e387bc587.png)
 
-![4](https://user-images.githubusercontent.com/95554670/158024555-edaac947-7b33-46ba-a211-bd8e58918d46.png)
